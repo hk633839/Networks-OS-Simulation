@@ -35,9 +35,10 @@ In this project, comparision of CBR traffic over UDP agent and FTP traffic over 
 TCP agents considered for FTP traffic are:
 
 ~~~
-* TCP HighSpeed
+1. TCP HighSpeed
 
-* TCP Vegas
+2. TCP Vegas
          
-* TCP Scalable
+3. TCP Scalable
 ~~~
+Dumbell topology is considered for this project.
