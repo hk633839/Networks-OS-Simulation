@@ -34,6 +34,10 @@ In this project, comparision of CBR traffic over UDP agent and FTP traffic over 
 
 TCP agents considered for FTP traffic are:
 
-Markup : - TCP HighSpeed
-         - TCP Vegas
-         - TCP Scalable
+~~~
+* TCP HighSpeed
+
+* TCP Vegas
+         
+* TCP Scalable
+~~~
