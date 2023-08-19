@@ -1,6 +1,6 @@
 # Networks-OS-mini-projects
 
-This repository encompasses a collection of five distinct mini projects, each of which encompasses several additional smaller projects within itself.
+This repository encompasses a collection of five distinct projects, each of which encompasses several additional smaller projects within itself.
 
 
 # Base64 encoding #
