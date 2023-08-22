@@ -1,4 +1,4 @@
-# Networks-OS-mini-projects
+# Networks-OS-Simulation
 
 This repository encompasses a collection of five distinct projects, each of which encompasses several additional smaller projects within itself.
 
