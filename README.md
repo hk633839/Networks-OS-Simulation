@@ -3,7 +3,28 @@
 This repository encompasses a collection of five distinct projects, each of which encompasses several additional smaller projects within itself.
 
 
-# Base64 encoding #
+
+# CBR_UDP vs FTP_TCP #
+
+In this project, comparision of CBR traffic over UDP agent and FTP traffic over TCP agent is implemented.
+
+TCP agents considered for FTP traffic are:
+
+~~~
+1. TCP HighSpeed
+
+2. TCP Vegas
+         
+3. TCP Scalable
+~~~
+Dumbell topology is considered for this project.
+
+
+# Network Communication and File System Optimization #
+
+This project consists of two mini projects related to file systems and Encrypted Network Communication.
+
+## Secure Message Exchange ##
 
 This project involves the complete establishment of communication between multiple clients and a server, ensuring the security of messages exchanged using base64 encoding.
 
@@ -29,26 +50,6 @@ To run the project:
 
 6.now check the server's terminal it will display the encoded message and decoded message
 
-
-# CBR_UDP vs FTP_TCP #
-
-In this project, comparision of CBR traffic over UDP agent and FTP traffic over TCP agent is implemented.
-
-TCP agents considered for FTP traffic are:
-
-~~~
-1. TCP HighSpeed
-
-2. TCP Vegas
-         
-3. TCP Scalable
-~~~
-Dumbell topology is considered for this project.
-
-
-# File systems #
-
-This project consists of two mini projects related to file systems.
 
 ### File allocation ###
 
